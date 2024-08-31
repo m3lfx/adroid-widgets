@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app4</string>
+    <string-array name="countries" >
+        <item>england</item>
+        <item>us</item>
+        <item>france</item>
+    </string-array>
+</resources>
